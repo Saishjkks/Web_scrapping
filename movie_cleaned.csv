@@ -1,0 +1,101 @@
+,Name of movie,Year of release,Watch_time,Movies rating,Votes,Grosses
+0,The Shawshank Redemption,1994,142 min,9.3,"2,782,385",28340000
+1,The Godfather,1972,175 min,9.2,"1,937,301",134970000
+2,The Dark Knight,2008,152 min,9.0,"2,760,613",534860000
+3,Schindler's List,1993,195 min,9.0,"1,400,086",96900000
+4,12 Angry Men,1957,96 min,9.0,"826,015",4360000
+5,The Lord of the Rings: The Return of the King,2003,201 min,9.0,"1,906,997",377850000
+6,The Godfather Part II,1974,202 min,9.0,"1,316,749",57300000
+7,Pulp Fiction,1994,154 min,8.9,"2,134,764",107930000
+8,Spider-Man: Across the Spider-Verse,2023,140 min,8.8,"213,808",15000000
+9,Inception,2010,148 min,8.8,"2,450,874",292580000
+10,Fight Club,1999,139 min,8.8,"2,217,517",37030000
+11,The Lord of the Rings: The Fellowship of the Ring,2001,178 min,8.8,"1,935,187",315540000
+12,Forrest Gump,1994,142 min,8.8,"2,164,102",330250000
+13,"Il buono, il brutto, il cattivo",1966,161 min,8.8,"785,337",6100000
+14,The Lord of the Rings: The Two Towers,2002,179 min,8.8,"1,720,826",342550000
+15,Jai Bhim,2021,164 min,8.8,"209,007",219000000
+16,777 Charlie,2022,136 min,8.8,"36,002",127340000
+17,Interstellar,2014,169 min,8.7,"1,964,340",188020000
+18,Goodfellas,1990,145 min,8.7,"1,207,193",46840000
+19,One Flew Over the Cuckoo's Nest,1975,133 min,8.7,"1,038,614",112000000
+20,The Matrix,1999,136 min,8.7,"1,979,597",171480000
+21,Star Wars: Episode V - The Empire Strikes Back,1980,124 min,8.7,"1,335,136",290480000
+22,Rocketry: The Nambi Effect,2022,157 min,8.7,"54,625",127340000
+23,Soorarai Pottru,2020,153 min,8.7,"120,306",127340000
+24,Oppenheimer,2023,180 min,8.6,"329,427",31000000
+25,Se7en,1995,127 min,8.6,"1,721,685",100130000
+26,The Silence of the Lambs,1991,118 min,8.6,"1,484,380",130740000
+27,Saving Private Ryan,1998,169 min,8.6,"1,441,238",216540000
+28,Terminator 2: Judgment Day,1991,137 min,8.6,"1,135,762",204840000
+29,Star Wars,1977,121 min,8.6,"1,407,149",322740000
+30,The Green Mile,1999,189 min,8.6,"1,352,335",136800000
+31,Sen to Chihiro no kamikakushi,2001,125 min,8.6,"803,301",10060000
+32,Cidade de Deus,2002,130 min,8.6,"778,039",7560000
+33,La vita è bella,1997,116 min,8.6,"718,580",57600000
+34,It's a Wonderful Life,1946,130 min,8.6,"476,763",21000000
+35,Shichinin no samurai,1954,207 min,8.6,"356,216",270000
+36,Seppuku,1962,133 min,8.6,"62,818",47000000
+37,Sita Ramam,2022,163 min,8.6,"61,939",127340000
+38,The Prestige,2006,130 min,8.5,"1,386,115",53090000
+39,The Departed,2006,151 min,8.5,"1,372,164",132380000
+40,Gisaengchung,2019,132 min,8.5,"877,056",53370000
+41,Alien,1979,117 min,8.5,"913,772",78900000
+42,Gladiator,2000,155 min,8.5,"1,553,044",187710000
+43,Back to the Future,1985,116 min,8.5,"1,255,703",210610000
+44,Whiplash,2014,106 min,8.5,"923,254",13090000
+45,Léon,1994,110 min,8.5,"1,202,628",19500000
+46,The Pianist,2002,150 min,8.5,"870,326",32570000
+47,Psycho,1960,109 min,8.5,"694,851",32000000
+48,The Usual Suspects,1995,106 min,8.5,"1,113,982",23340000
+49,The Lion King,1994,88 min,8.5,"1,099,138",422780000
+50,American History X,1998,119 min,8.5,"1,153,138",6720000
+51,Hotaru no haka,1988,89 min,8.5,"292,687",46000000
+52,The Intouchables,2011,112 min,8.5,"892,399",13180000
+53,Casablanca,1942,102 min,8.5,"589,188",1020000
+54,Once Upon a Time in the West,1968,165 min,8.5,"340,126",5320000
+55,Rear Window,1954,112 min,8.5,"506,489",36760000
+56,Nuovo Cinema Paradiso,1988,155 min,8.5,"271,961",11990000
+57,City Lights,1931,87 min,8.5,"190,394",20000
+58,Modern Times,1936,87 min,8.5,"251,095",160000
+59,96,II 2018,158 min,8.5,"33,719",127340000
+60,Memento,2000,113 min,8.4,"1,279,698",25540000
+61,The Dark Knight Rises,2012,164 min,8.4,"1,765,195",448140000
+62,Avengers: Endgame,2019,181 min,8.4,"1,204,100",858370000
+63,Spider-Man: Into the Spider-Verse,2018,117 min,8.4,"618,788",190240000
+64,Joker,I 2019,122 min,8.4,"1,385,688",335450000
+65,Django Unchained,2012,165 min,8.4,"1,623,367",162810000
+66,Raiders of the Lost Ark,1981,115 min,8.4,"1,008,166",248160000
+67,Aliens,1986,137 min,8.4,"739,619",85160000
+68,Oldeuboi,2003,101 min,8.4,"604,716",710000
+69,Apocalypse Now,1979,147 min,8.4,"688,577",83470000
+70,The Shining,1980,146 min,8.4,"1,062,415",44020000
+71,Avengers: Infinity War,2018,149 min,8.4,"1,145,734",678820000
+72,Amadeus,1984,160 min,8.4,"414,244",51970000
+73,Idi i smotri,1985,142 min,8.4,"88,624",91000000
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95 min,8.4,"504,513",280000
+75,Kimi no na wa.,2016,106 min,8.4,"295,041",5020000
+76,Coco,I 2017,105 min,8.4,"548,091",209730000
+77,WALL·E,2008,98 min,8.4,"1,157,543",223810000
+78,The Lives of Others,2006,137 min,8.4,"399,709",11290000
+79,3 Idiots,2009,170 min,8.4,"415,650",6530000
+80,Capharnaüm,2018,126 min,8.4,"97,732",1660000
+81,Das Boot,1981,149 min,8.4,"257,742",11490000
+82,Paths of Glory,1957,88 min,8.4,"204,712",62000000
+83,Sunset Blvd.,1950,110 min,8.4,"229,300",61000000
+84,Witness for the Prosecution,1957,116 min,8.4,"131,482",8180000
+85,The Great Dictator,1940,125 min,8.4,"230,848",290000
+86,Tengoku to jigoku,1963,143 min,8.4,"49,069",87000000
+87,Sardar Udham,2021,164 min,8.4,"44,775",127340000
+88,Kaithi,2019,145 min,8.4,"37,051",127340000
+89,Asuran,2019,141 min,8.4,"31,682",127340000
+90,Drishyam 2,2021,152 min,8.4,"39,425",127340000
+91,Top Gun: Maverick,2022,130 min,8.3,"620,319",718730000
+92,Inglourious Basterds,2009,153 min,8.3,"1,513,712",120540000
+93,Good Will Hunting,1997,126 min,8.3,"1,016,643",138430000
+94,Scarface,1983,170 min,8.3,"878,460",45600000
+95,Heat,1995,170 min,8.3,"687,135",67440000
+96,Requiem for a Dream,2000,102 min,8.3,"870,249",3640000
+97,American Beauty,1999,122 min,8.3,"1,181,668",130100000
+98,2001: A Space Odyssey,1968,149 min,8.3,"693,587",56950000
+99,Braveheart,1995,178 min,8.3,"1,064,053",75600000
